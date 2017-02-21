@@ -1,1 +1,2 @@
-# SHA1_SHA2_SSL-Certificate_Migration_HTTP
+# SHA1-to-SHA2-Migration
+ Used to migrate the given SHA1 certificates to SHA2 format
